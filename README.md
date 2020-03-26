@@ -1,4 +1,4 @@
-# React_CHAT_APP
+# React CHAT APP
 React Chat app using Socket.io <br>
 frontend : ReactJs <br>
 backend : NodeJs <br>
