@@ -3,7 +3,11 @@ React Chat app using Socket.io
 frontend : ReactJs
 backend : NodeJs
 
-
-Author : Sachin Duhan
-Institue - Delhi Technological University, Delhi - 42
-Course - Mathematics and Computing
+---
+SHOW SOME LOVE AND FORKS, START THE REPO..
+---
+~~~
+Author : Sachin Duhan <br>
+Institue - Delhi Technological University, Delhi - 42 <br>
+Course - Mathematics and Computing <br>
+~~~
