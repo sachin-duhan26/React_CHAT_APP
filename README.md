@@ -3,7 +3,7 @@ React Chat app using Socket.io <br>
 frontend : ReactJs <br>
 backend : NodeJs <br>
 
-SHOW SOME LOVE AND FORKS, START THE REPO..
+SHOW SOME LOVE AND FORKS or STAR THE REPO..
 ---
 ~~~
 Author : Sachin Duhan
